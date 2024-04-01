@@ -36,5 +36,5 @@ Visualização da execução do código:
 
 ![Visualização do código em C](alocacao-sequencial-em-c.png)
 
-1. Foi criado um vetor(array) com 10 posições para elementos do tipo inteiro e o valor 50 foi armazenado na 4ª posição, elemento com índice 3.  
-2. A variável `a` , do tipo inteiro, recebeu, por operação de atribuição, o valor 50. 
+1. Foi criado um vetor(array) com 10 posições para elementos do tipo inteiro e o valor 50 foi armazenado na 4ª posição. Elemento do vetor(array) com índice 3 representado por `vetor[3]` que armazena o valor da variável `a`.  
+2. A variável `a` , do tipo inteiro, recebeu, por operação de atribuição, o valor 50.
