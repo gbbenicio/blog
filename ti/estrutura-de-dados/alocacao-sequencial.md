@@ -1,7 +1,7 @@
 # Alocação Sequencial
 É o armazenamento de dados de forma sequencial na memória do computador. Isto quer dizer que as posições da memória ocupadas serão contíguas.
 
-Na alocação sequencial o programa precisa informar **previamente todo o tamanho da memória** que será necessário.
+Na alocação sequencial o programa precisa informar **previamente** todo o **tamanho da memória** que será necessário.
 
 A alocação sequencial é representada por **arrays** ou **vetores**.
 
