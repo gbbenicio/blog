@@ -2,7 +2,7 @@
 
 ## Pré-requisitos:
 
-- Noções básicas de programação em pelo menos uma linguagem de computador (C, C++, Java, Python etc.).
+- Noções básicas de programação em pelo menos uma linguagem programação (C, C++, Java, Python etc.).
 
 - Familiaridade com algoritmos básicos de ordenação e busca.
 
