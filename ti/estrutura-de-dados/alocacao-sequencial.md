@@ -32,7 +32,7 @@ int main()
     return 0;
 }
 ```
-Visualização da execução do código, usando o programa Python Tutor (https://pythontutor.com/):
+Visualização da execução do código, usando o programa Python Tutor (https://pythontutor.com/) configurado para a Linguagem C:
 
 ![Visualização do código em C](alocacao-sequencial-em-c.png)
 
