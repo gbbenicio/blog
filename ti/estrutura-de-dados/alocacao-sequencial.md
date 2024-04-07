@@ -19,7 +19,7 @@ Existem 3 (três) tipos de arrays:
 
 Implementação do vetor (array unidimensional) em Linguagem C:
 
-Abaixo o código para um vetor(array):
+Abaixo o código para declaração de um vetor (array):
 
 ```sh
 int vetor[10];
