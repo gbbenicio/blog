@@ -35,3 +35,19 @@ Imagine uma casa:
 
 ## Exemplo:
 
+Um array de números inteiros:
+
+- **Alocação de memória:** Estática, pois o tamanho do array é conhecido em tempo de compilação.
+- **Organização de dados:** Sequencial, pois os elementos são armazenados em sequência na memória.
+
+## Outro exemplo:
+
+Uma lista encadeada de strings:
+
+- **Alocação de memória:** Dinâmica, pois o tamanho da lista pode variar durante a execução.
+- **Organização de dados:** Encadeada, pois os elementos são  armazenados em blocos não contíguos, ligados por ponteiros.
+
+## Considerações:
+
+- A escolha do método de alocação de memória e organização de dados depende das necessidades específicas do programa.
+- Fatores como tamanho da estrutura de dados, tipo de operações que serão realizadas e frequência de acesso aos dados devem ser considerados.
