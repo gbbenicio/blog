@@ -9,6 +9,8 @@ A alocação sequencial é representada por **arrays** ou **vetores**.
 
 Vetor ou array unidimensional é uma estrutra de dados que armazena uma coleção de elementos do **mesmo tipo**, onde cada elemento é acessado através de um **índice numérico**.
 
+Array é uma estrutura **homogênea** que representa um conjunto de elementos de dados do **mesmo tipo**.
+
 Existem 3 (três) tipos de arrays:
 
 - Unidimensional: Vetor
