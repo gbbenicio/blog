@@ -5,11 +5,17 @@ Na alocação sequencial o programa precisa informar **previamente** todo o **ta
 
 A alocação sequencial é representada por **arrays** ou **vetores**.
 
-# Vetor (Array)
+# Vetor (Array Unidimensional)
 
-Vetor ou array é uma estrutra de dados que armazena uma coleção de elementos do **mesmo tipo**, onde cada elemento é acessado através de um **índice numérico**.
+Vetor ou array unidimensional é uma estrutra de dados que armazena uma coleção de elementos do **mesmo tipo**, onde cada elemento é acessado através de um **índice numérico**.
 
-Implementação em Linguagem C:
+Existem 3 (três) tipos de arrays:
+
+- Unidimensional: Vetor
+- Bidimensional: Matriz
+- Tridimensional: Cubo
+
+Implementação do vetor (array unidimensional) em Linguagem C:
 
 Abaixo o código para um vetor(array):
 
