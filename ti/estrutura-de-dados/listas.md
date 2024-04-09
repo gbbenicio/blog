@@ -42,4 +42,24 @@ Imagem. Fonte: https://algoritmosempython.com.br/cursos/algoritmos-python/estrut
   - **Pop:** Remover um elemento do topo da pilha.
   - **Peek:** Retornar o elemento do topo da pilha sem removê-lo.
 - As pilhas são usadas em diversas aplicações, como:
-    
+  - Desfazer/refazer operações em um editor de texto.
+  - Avaliação de expressões matemáticas.
+  - Implementação de algoritmos de recursão.
+ 
+**5. Fila (Queue):**
+
+- Uma fila é uma lista FIFO (First-In-First-Out), ou seja, o primeiro elemento inserido é o primeiro a ser removido.
+- As operações básicas em uma fila são:
+  - **Enqueue:** Inserir um elemento no final da fila.
+  - **Dequeue:** Remover um elemento do início da fila.
+  - **Peek:** Retornar o elemento do início da fila sem removê-lo.
+- As filas são usadas em diversas aplicações, como:
+  - Simulação de filas de espera.
+  - Buffering de dados.
+  - Implementação de algoritmos de ordenação.
+
+ ## Principais Características:
+
+ Tipo de Lista | Ordem de Inserção/Remoção | Implementação | Operações Básicas | Aplicações
+ ------------------------------------
+ Lista Encadeada Simples | LIFO | Simples | Push, Pop, Peek | Desfazer/refazer, Avaliação de expressões, Recursão
