@@ -25,6 +25,8 @@ A figura abaixo iustra a representação de um array (arranjo) unidimensional (v
 
 Imagem. Fonte: https://ifrnead.github.io/rubynapratica/contents/programacao_estruturada/arrays.html
 
+O array unidimensional (vetor) é uma estrutura capaz de guardar um conjunto de valores. Cada valor é guardado numa posição do array e cada posição é endereçada (também chamamos de indexada) por um índice, que é um número inteiro que marca cada posição no array. Portanto, conforme ilustrado na figura acima, o valor da posição 0 é 10, o valor da posição 1 é 14, o valor da posição 2 é 20, etc. O primeiro índice será 0 (zero), portanto, num array com X posições, o último índice será X - 1.
+
 ## Tipos de lista:
 
 **1. Lista Encadeada Simples:**
