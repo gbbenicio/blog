@@ -62,4 +62,5 @@ Imagem. Fonte: https://algoritmosempython.com.br/cursos/algoritmos-python/estrut
 
 | Tipo de Lista | Ordem de Inserção/Remoção | Implementação | Operações Básicas | Aplicações |
  --------------|---------------------------|---------------|-------------------|--------------|
- Lista Encadeada Simples | LIFO | Simples | Push, Pop, Peek | Desfazer/refazer, Avaliação de expressões, Recursão
+| Lista Encadeada Simples | LIFO | Simples | Push, Pop, Peek | Desfazer/refazer, Avaliação de expressões, Recursão |
+| Lista Duplamente Encadeada | LIFO | Mais complexa | Push, Pop, Peek | Simulação de filas de espera, Buffering de dados, Ordenação | 
