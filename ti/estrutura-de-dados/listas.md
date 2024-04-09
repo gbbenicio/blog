@@ -19,6 +19,12 @@ A figura abaixo ilustra a representação de listas encadeadas.
 
 Imagem. Fonte: https://algoritmosempython.com.br/cursos/algoritmos-python/estruturas-dados/listas-encadeadas/
 
+A figura abaixo ilustra as representações de uma lista encadeada simples e de uma lista duplamente encadeada.
+
+![Representação de uma lista encadeada simples e de uma lista duplamente encadeada](img/listas-encadeadas-simples-e-duplamente-encadeadas.jpeg)
+
+Imagem. Fonte: https://brainly.com.br/tarefa/21947959
+
 A figura abaixo iustra a representação de um array (arranjo) unidimensional (vetor).
 
 ![Array Unidimensional](img/estrutura-array.png)
