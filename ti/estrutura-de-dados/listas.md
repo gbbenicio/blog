@@ -60,6 +60,6 @@ Imagem. Fonte: https://algoritmosempython.com.br/cursos/algoritmos-python/estrut
 
  ## Principais Características:
 
- Tipo de Lista | Ordem de Inserção/Remoção | Implementação | Operações Básicas | Aplicações
- ------------------------------------
+| Tipo de Lista | Ordem de Inserção/Remoção | Implementação | Operações Básicas | Aplicações |
+ --------------|---------------------------|---------------|-------------------|--------------|
  Lista Encadeada Simples | LIFO | Simples | Push, Pop, Peek | Desfazer/refazer, Avaliação de expressões, Recursão
