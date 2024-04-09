@@ -9,4 +9,6 @@ A figura abaixo ilustra a representação de listas encadeadas.
 
 ![Listas Encadeadas](img/listas-encadeadas.png)
 
+Imagem. Fonte: https://algoritmosempython.com.br/cursos/algoritmos-python/estruturas-dados/listas-encadeadas/
+
 ## Tipos de lista: 
