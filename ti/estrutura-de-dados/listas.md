@@ -5,4 +5,8 @@ Uma lista é uma estrutura de dados que armazena uma coleção (conjunto) de ele
 - **Listas encadeadas:** Cada elemento da lista é armazenado em umnó, que contém o valor do elemento e um ponteiro para o próximo nó.
 - **Vetores:** OS elementos da lista são armazenados em um array contíguo de memória.
 
+A figura abaixo ilustra a representação de listas encadeadas.
+
+![Listas Encadeadas](img/listas-encadeadas.png)
+
 ## Tipos de lista: 
