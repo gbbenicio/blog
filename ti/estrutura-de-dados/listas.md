@@ -30,4 +30,16 @@ Imagem. Fonte: https://algoritmosempython.com.br/cursos/algoritmos-python/estrut
 
 **3. Lista Circular:**
 
+- Os elementos da lista formam um círculo, ou seja, o último nó aponta para o primeiro nó.
+- Permite a inserção e remoção de elementos em qualquer lugar da lista.
+- Útil para implementar filas e pilhas.
 
+**4. Pilha (Stack):**
+
+- Uma pilha é uma lista LIFO (Last-In-First-Out), ou seja, o último elemento inserido é o primeiro a ser removido.
+- As operações básicas em uma pilha são:
+  - **Push:** Inserir um elemento no topo da pilha.
+  - **Pop:** Remover um elemento do topo da pilha.
+  - **Peek:** Retornar o elemento do topo da pilha sem removê-lo.
+- As pilhas são usadas em diversas aplicações, como:
+    
