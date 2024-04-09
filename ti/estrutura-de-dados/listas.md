@@ -67,3 +67,9 @@ Imagem. Fonte: https://algoritmosempython.com.br/cursos/algoritmos-python/estrut
 | Lista Circular | LIFO | Mais complexa | Push, Pop, Peek | Simulação de filas de espera, Buffering de dados, Ordenação |
 | Pilha | LIFO | Simples | Push, Pop, Peek | Desfazer/refazer, Avaliação de expressões, Recursão |
 | Fila | FIFO | Simples | Enqueue, Dequeue, Peek | Simulação de filas de espera, Buffering de dados, Ordenação |
+
+## Considerações Finais:
+
+A escolha do tipo de lista mais adequado para uma aplicação depende de diversos fatores, como a ordem de inserção e remoção dos elementos, a necessidade de acesso rápido a elementos específicos e a eficiência das operações básicas.
+
+É importante entender as principais características de cada tipo de lista para poder escolher a mais adequada para cada necessidade.
