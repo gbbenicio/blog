@@ -19,7 +19,7 @@ A figura abaixo ilustra a representação de listas encadeadas.
 
 Imagem. Fonte: https://algoritmosempython.com.br/cursos/algoritmos-python/estruturas-dados/listas-encadeadas/
 
-A figura abaixo iustra a representação de um array (arranjo ou vetor) unidimensional.
+A figura abaixo iustra a representação de um array (arranjo) unidimensional (vetor).
 
 ![Array Unidimensional](img/estrutura-array.png)
 
