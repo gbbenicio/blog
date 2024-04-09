@@ -2,6 +2,12 @@
 
 Uma lista é uma estrutura de dados que armazena uma coleção (conjunto) de elementos. Estes elementos podem ser de qualquer tipo de dado, como números, strings, objetos etc.
 
+Uma lista, por definição, não precisa ser ordenada para ser considerada como tal. Na verdade existem diversos tipos de listas que não possuem ordem definida, como listas encadeadas simples e listas circulares.
+
+O que define uma lista é a estrutura de dados utilizada para armazenar os elementos, que permite a inserção, remoção e acesso aos elementos de forma eficiente. A ordem dos elementos é apenas um detalhe que pode variar de acordo com o tipo de lista e a necessidade de aplicação.
+
+Em alguns casos, a ordem dos elementos pode ser importante para o funcionamento da lista, como em listas ordenadas, onde a busca por um elemento específico pode ser realizada de forma mais eficiente. No entanto, em muitos outros casos, a ordem não é relevante, e uma lista desordenada pode ser perfeitamente adequada.
+
 As listas podem ser implementadas de diversas maneiras, mas as mais comuns são:
 
 - **Listas encadeadas:** Cada elemento da lista é armazenado em umnó, que contém o valor do elemento e um ponteiro para o próximo nó.
