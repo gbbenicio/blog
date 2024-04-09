@@ -17,5 +17,11 @@ Existem diversos tipos de algoritmos de ordenação, cada um com suas vantagens 
 
 ## Fatores a considerar na escolha de um algoritmo de ordenação:
 
-- **TAmanho do array:** Alguns algoritmos são mais eficientes para arrays pequenos, enquanto outros são mais eficientes para arrays grandes.
-- **Tipo de ordenação:**  
+- **Tamanho do array:** Alguns algoritmos são mais eficientes para arrays pequenos, enquanto outros são mais eficientes para arrays grandes.
+- **Tipo de ordenação:** Crescente ou decrescente.
+- **Tipo de dados:** Os algoritmos podem ter diferentes performances para os tipos de dados como números, strings ou objetos.
+- **Complexidade:** Tempo e memória utilizados pelo algoritmo.
+
+## Conclusão:
+
+Algoritmos de ordenação são ferramentas importantes na Ciência da Computação. A escolha do algoritmo ideal depende de diversos fatores, como o tamanho do array, o tipo de ordenação e o tipo de dados. É importante conhecer os diferentes algoritmos e suas características para escolher o mais adequado para cada situação.
