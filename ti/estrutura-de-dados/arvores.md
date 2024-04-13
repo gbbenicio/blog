@@ -2,7 +2,7 @@
 
 1. Uma árvore é uma estrutura de dados hierárquica composta por nós conectados por arestas.
 
-![Estrutura básica de uma árvore](img/estrutura-arvore.png)
+![Estrutura básica de uma árvore](img/estrutura-arvore.png)  ![Exemplos de árvores](img/exemplos-arvores.png)
 
 2. Cada árvore tem um nó especial chamado de raiz, a partir do qual todos os outros nós são alcançáveis.
 
