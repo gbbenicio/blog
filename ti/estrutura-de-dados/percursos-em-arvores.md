@@ -10,4 +10,4 @@ Existem três principais formas de percurso em árvores:
 
 3. **Pós-ordem (postorder):** Neste método, os nós filhos da esquerda são visitados primeiro, seguidos pelos nós filhos da direita, e então o próprio nó raiz pe visitado por último. É útil para liberar a memória associada aos nós da árvore.
 
-4. Esses percursos são implementados de forma recursiva ou iterativa e são fundamentais para muitos algoritmos que operam em árvores, como busca, inserção, remoção e balanceamento. Cada método de percurso tem suas aplicações específicas, dependendo do problema a ser resolvido.
+Esses percursos são implementados de forma recursiva ou iterativa e são fundamentais para muitos algoritmos que operam em árvores, como busca, inserção, remoção e balanceamento. Cada método de percurso tem suas aplicações específicas, dependendo do problema a ser resolvido.
