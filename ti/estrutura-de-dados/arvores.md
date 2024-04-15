@@ -16,6 +16,8 @@
 
 Imagem. Fonte: https://systevolution.files.wordpress.com/2011/08/arvore1.jpg
 
+Há autores que consideram o nível do nó raiz como de nível 0 e outros como sendo nível 1. O mais usual é considerá-lo como sendo de nível 1.
+
 > Em uma árvore, o grau de um nó é o número de filhos que esse nó possui. Por exemplo, em uma árvore binária, cada nó pode ter até 2 (dois) filhos, então o grau máximo de um nó é dois.
 >
 > O grau de uma árvore é o máximo grau de qualquer nó na árvore. 
