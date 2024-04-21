@@ -1,6 +1,6 @@
 # O que é o Espiritismo?
 
-O Espiritismo, também conhecido como doutrina espírita ou kardecismo, é uma doutrina **religiosa, filosófica e científica** codificada em 1857 por **Allan Kardec** na França. 
+O Espiritismo, também conhecido como doutrina espírita, é uma doutrina **religiosa, filosófica e científica** codificada em 1857 por **Allan Kardec** na França. 
 
 ### Principais Características:
 
