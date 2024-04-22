@@ -8,7 +8,7 @@
 
 - Capítulo I - Da ação dos Espíritos sobre a matéria
   - 52  
-  - 53  
+  - [53](o-livro-dos-mediuns/item-53.md)  
   - 54
   - 55
   - 56
