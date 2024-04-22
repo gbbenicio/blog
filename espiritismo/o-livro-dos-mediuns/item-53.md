@@ -24,7 +24,7 @@
 
 - (...) e essa visão produz em alguns, durante certo tempo, **singular ilusão: a de se crerem ainda vivos**.
 
-- Sentem-se mais leves e como que aliviados de um fardo.
+- Sentem-se **mais leves** e como que **aliviados** de um fardo.
 
 - Não sofrem mais as **dores físicas** (...)
 
