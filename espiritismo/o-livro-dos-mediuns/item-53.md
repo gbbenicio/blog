@@ -10,6 +10,12 @@
 
 - Quando o deixa, por ocasião da morte, **não sai dele despido de todo o envoltório**.
 
+- Todos nos dizem que **conservam a forma humana** (...)
+
+- (...) e, de fato, **quando nos aparecem**, é sob essa **forma que os reconhecemos**.
+
+- (...) no instante em que **acabam de deixar a vida**, veremos que eles se encontram em estado de **perturbação** (...)
+
 - Entretanto, apesar da falta do corpo, constatam suas **personalidades**;
 
 - têm, finalmente, a **consciência** do seu **eu** e de sua **individualidade**.
