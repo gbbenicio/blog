@@ -17,7 +17,7 @@
 - (...) no instante em que **acabam de deixar a vida**, veremos que eles se encontram em **estado de perturbação** (...)
 
 - **veem o próprio corpo**, (...)
--
+
 - (...) **perfeito ou mutilado**, conforme o gênero da morte;
 
 - Entretanto, apesar da **falta do corpo**, constatam suas **personalidades**;
