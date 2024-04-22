@@ -20,7 +20,21 @@
 
 - (...) **perfeito ou mutilado**, conforme o gênero da morte;
 
+- **Continuam a ver-se** sob a forma que tinham antes de morrer (...)
+
+- (...) e essa visão produz em alguns, durante certo tempo, singular **ilusão: a de se crerem ainda vivos**.
+
+- Sentem-se mais leves e como que aliviados de um fardo.
+
+- Não sofrem mais as **dores físicas** (...)
+
+- (...) se consideram **felizes** por poderem **elevar-se e tanspor o Espaço** (...)
+
+- como **tantas vezes o fizeram em sonho**, quando vivos.
+
 - Entretanto, apesar da **falta do corpo**, constatam suas **personalidades**;
+
+- (...) têm uma forma, mas que **não os importuna nem os embaraça**;
 
 - (..) têm, finalmente, a **consciência** do seu **eu** e de sua **individualidade**.
 
