@@ -22,7 +22,7 @@
 
 - **Continuam a ver-se** sob a forma que tinham antes de morrer (...)
 
-- (...) e essa visão produz em alguns, durante certo tempo, singular **ilusão: a de se crerem ainda vivos**.
+- (...) e essa visão produz em alguns, durante certo tempo, **singular ilusão: a de se crerem ainda vivos**.
 
 - Sentem-se mais leves e como que aliviados de um fardo.
 
