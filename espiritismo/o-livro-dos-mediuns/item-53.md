@@ -2,6 +2,10 @@
 
 ## Item 53
 
+#### Áudio
+
+[Áudio do Item 53](audio/lm-item-53.mp3)
+
 #### Destaques
 
 - **Espírito** não é uma abstração, mas um **ser definido, limitado e circunscrito**.
