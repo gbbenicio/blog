@@ -4,15 +4,8 @@ Em C, passagem por valor significa que uma cópia do valor do argumento é passa
 
 Exemplo de passagem por valor:
 
-<table>
-<tr>
-  <td>
-    1.  
-    2.  
-    3.  
-  </td>
-  <td>
-    ```
+
+```
 # include <stdio.h>
 
 void increment (int num) {
@@ -21,6 +14,4 @@ void increment (int num) {
 
 
 ```
-  </td>
-</tr>
-</table>
+
