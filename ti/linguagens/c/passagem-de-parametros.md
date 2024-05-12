@@ -39,4 +39,4 @@ int main(){
 }
 ```
 
-Neste exemplo, o valor de `x` é modificado após a chamada da função `incrment`, pois é passado o endereço de memória de `x` para a função, permitindo que ela modifique o valor original.
+Neste exemplo, o valor de `x` é modificado após a chamada da função `increment`, pois é passado o endereço de memória de `x` para a função, permitindo que ela modifique o valor original.
