@@ -12,6 +12,11 @@ void increment (int num) {
     num++;
 }
 
-
+int main(){
+    int x =  5;
+    increment(x);
+    printf('o valor de x após a chamada da função é: %d\n', x);
+    return 0;
+}
 ```
 
